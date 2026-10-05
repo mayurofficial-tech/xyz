@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/case_header.svg" alt="Case File 11391" width="100%" />
+  <img src="case_header.svg" alt="Case File 11391" width="100%" />
 </p>
 
 <p align="center">
